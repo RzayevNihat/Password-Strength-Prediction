@@ -4,6 +4,9 @@
 
 This dataset contains a list of passwords alongside their corresponding strength classifications. The dataset can be used to train models to predict the strength of passwords based on their structure and content. The strength is categorized into different levels, helping in identifying weak, medium, or strong passwords.
 
+## Description
+assword Strength Checker is an application that checks how strong a password is. Some popular password strength meters use machine learning algorithms to predict the strength of your password. So, if you want to learn how to use machine learning to check your password’s strength, this article is for you. In this article, I will take you through how to create a password strength checker with machine learning using Python.
+
 ### Dataset Structure:
 
 - **password**: This column contains a list of user-created passwords.
